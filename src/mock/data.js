@@ -39,7 +39,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project2.jpg',
     title: 'Smart Brain App',
-    info: 'A full-stack web application, this app allows you to identify the detection of faces in any image supplied. This was achieved thanks to Clarifais artificial intelligence API.',
+    info: 'A full-stack web application, this app allows you to identify the faces in any image supplied. This was achieved thanks to Clarifais artificial intelligence API.',
     info2: 'I used React, Node, Express.js and PostgreSql in order to create this web application.',
     url: 'https://beautydetect.herokuapp.com/',
     repo: 'https://github.com/lunoos/smartBrainBackEnd', // if no repo, the button will not show up
