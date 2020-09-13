@@ -11,14 +11,14 @@ export const headData = {
 export const heroData = {
   title: 'Hi, my name is',
   name: 'Mahendar Patel',
-  subtitle: 'I am a Full Stack Developer.',
-  cta: 'Hire me',
+  subtitle: 'I am a web Developer.',
+  cta: 'Learn more',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.png',
-  paragraphOne: 'I am, a web designer/developer focused on crafting great web experiences. Designing and Coding have been my passion since the days I started working with computers but I found myself into web design/development from past one year. I enjoy creating beautifully designed, intuitive and functional websites.',
+  paragraphOne: 'I am, a web developer focused on crafting great web experiences. Designing and Coding have been my passion since the days I started working with computers but I found myself into web development from past few months. I enjoy creating beautifully designed, intuitive and functional websites.',
   paragraphTwo: 'Below are some of my recent live projects feel free to go through them. "Lets build something special".',
   paragraphThree: '. . .',
   resume: 'https://drive.google.com/file/d/1hpO8WKg-2_1Bgh9AkgFy5H1mC3rgBgsR/view?usp=sharing', // if no resume, the button will not show up
