@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project1.jpg',
     title: 'E-commerse site',
-    info: 'This is an simple E-commerse site with user friendly interface and is responsive. Built using React for the front end , Node.Js as backend and used MongoDB as database.',
+    info: 'This is an simple E-commerse site with user friendly interface and is responsive. Built using React for the front end , Node.Js as backend, MongoDB as database and Razorpay as payment gateway.',
     //info2: '',
     url: 'https://neelamfrontend.herokuapp.com/',
     //repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
@@ -39,17 +39,17 @@ export const projectsData = [
     id: nanoid(),
     img: 'project2.jpg',
     title: 'Smart Brain App',
-    info: 'This is an Image Recognition App that uses a Api provided by the Clarifai. Bulit using react for fornt end , NodeJs for backend and used Postgresql for data base.',
-    //info2: '',
+    info: 'A full-stack web application, this app allows you to identify the detection of faces in any image supplied. This was achieved thanks to Clarifais artificial intelligence API.',
+    info2: 'I used React, Node, Express.js and PostgreSql in order to create this web application.',
     url: 'https://beautydetect.herokuapp.com/',
     repo: 'https://github.com/lunoos/smartBrainBackEnd', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'project3.jpg',
-    title: 'MarkDown Blog',
-    info: 'This is a Plain text formatting syntax. Built usign Node.Js for backend and  MongoDB for database.',
-    //info2: '',
+    title: 'Blog',
+    info: ' A simple blog with markdown support.This full-stack application allows you to add, edit and delete blogs.',
+    info2: 'Built usign Node.Js for backend and  MongoDB for database.',
     url: 'https://blogarticels.herokuapp.com/',
     repo: 'https://github.com/lunoos/blogArticles', // if no repo, the button will not show up
   },
@@ -57,7 +57,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project4.jpg',
     title: 'Chat interface',
-    info: 'This is simple Chart interface built using React for front end and used redux for state management.',
+    info: 'This is a Chat interface built using React for front end and redux for state management.',
     //info2: '',
     url: 'https://lunoos.github.io/chartScreen',
     repo: 'https://github.com/lunoos/chartScreen', // if no repo, the button will not show up
