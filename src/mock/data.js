@@ -33,7 +33,7 @@ export const projectsData = [
     info: 'This is an simple E-commerse site with user friendly interface and is responsive. Built using React for the front end , Node.Js as backend, MongoDB as database and Razorpay as payment gateway.',
     //info2: '',
     url: 'https://neelamfrontend.herokuapp.com/',
-    //repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/lunoos/neelam', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
