@@ -44,15 +44,15 @@ export const projectsData = [
     url: 'https://beautydetect.herokuapp.com/',
     repo: 'https://github.com/lunoos/smartBrainBackEnd', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'project3.jpg',
-    title: 'Blog',
-    info: ' A simple blog with markdown support.This full-stack application allows you to add, edit and delete blogs.',
-    info2: 'Built usign Node.Js for backend and  MongoDB for database.',
-    url: 'https://blogarticels.herokuapp.com/',
-    repo: 'https://github.com/lunoos/blogArticles', // if no repo, the button will not show up
-  },
+//   {
+//     id: nanoid(),
+//     img: 'project3.jpg',
+//     title: 'Blog',
+//     info: ' A simple blog with markdown support.This full-stack application allows you to add, edit and delete blogs.',
+//     info2: 'Built usign Node.Js for backend and  MongoDB for database.',
+//     url: 'https://blogarticels.herokuapp.com/',
+//     repo: 'https://github.com/lunoos/blogArticles', // if no repo, the button will not show up
+//   },
   {
     id: nanoid(),
     img: 'project4.jpg',
