@@ -55,12 +55,12 @@ export const projectsData = [
 //   },
   {
     id: nanoid(),
-    img: 'project4.jpg',
+    img: 'Screenshot 2020-10-15 211016.jpg',
     title: 'Netflix clone',
     info: 'This is a netflix clone built by using react for front, used TMDB API to get the movie data, for playing the trailer made use of `youtube` and `movie-trailer` npm package finally used firebase to launch web app',
     //info2: '',
     url: 'https://lunoos.github.io/chartScreen',
-    repo: 'https://github.com/lunoos/chartScreen', // if no repo, the button will not show up
+    repo: 'https://github.com/lunoos/netflix-clone', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
