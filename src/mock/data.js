@@ -59,7 +59,7 @@ export const projectsData = [
     title: 'Netflix clone',
     info: 'This is a netflix clone built by using react for front end, used TMDB API to fetch movies data, made use of npm packages like `youtube` and `movie-trailer` to play the trailer finally used firebase to launch the web app',
     //info2: '',
-    url: 'https://lunoos.github.io/chartScreen',
+    url: 'https://streaming-11af7.web.app',
     repo: 'https://github.com/lunoos/netflix-clone', // if no repo, the button will not show up
   },
   {
@@ -68,8 +68,8 @@ export const projectsData = [
     title: 'Chat interface',
     info: 'This is a Chat interface built using React for front end and redux for state management.',
     //info2: '',
-    url: 'https://streaming-11af7.web.app/',
-    repo: '', // if no repo, the button will not show up
+    url: 'https://lunoos.github.io/chartScreen/',
+    repo: 'https://github.com/lunoos/chartScreen', // if no repo, the button will not show up
   },
 ];
 
