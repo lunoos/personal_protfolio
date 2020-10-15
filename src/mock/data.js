@@ -56,11 +56,20 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project4.jpg',
-    title: 'Chat interface',
-    info: 'This is a Chat interface built using React for front end and redux for state management.',
+    title: 'Netflix clone',
+    info: 'This is a netflix clone built by using react for front, used TMDB API to get the movie data, for playing the trailer made use of `youtube` and `movie-trailer` npm package finally used firebase to launch web app',
     //info2: '',
     url: 'https://lunoos.github.io/chartScreen',
     repo: 'https://github.com/lunoos/chartScreen', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project4.jpg',
+    title: 'Chat interface',
+    info: 'This is a Chat interface built using React for front end and redux for state management.',
+    //info2: '',
+    url: 'https://streaming-11af7.web.app/',
+    repo: '', // if no repo, the button will not show up
   },
 ];
 
